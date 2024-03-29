@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Jorge Borges <jorgeborgesdev@gmail.com>",
+  "author": "Jorge Borges",
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
